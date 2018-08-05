@@ -1,5 +1,8 @@
 # Best-selling products
 
+Note: this module has been deprecated with [thirty bees](https://github.com/thirtybees/thirtybees)
+1.0.4 and integrated into the [statsmodule module](https://github.com/thirtybees/statsmodule).
+
 ## About
 
 Adds a list of the best-selling products to the Stats dashboard.
